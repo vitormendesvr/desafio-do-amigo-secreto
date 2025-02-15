@@ -1,10 +1,23 @@
 <h1>Desafio Sorteio do amigo secreto</h1>
 
-<h2>�� Sobre</h2>
+# Projeto: Amigo Secreto
 
-<p>Projeto feito no desafio do amigo secreto, parte da formação da alura de iniciante em programação.</p>
-<p>O intuito do desafio é adicionar uma lista de nomes, um de cada vez, e ao clicar em "Sortear amigo", ele aparecer a mensagem que um amigo foi sorteado e o nome.</p>
-<p>Duas funcionalidades implementadas são: ao tentar sortear sem colocar um nome na lista ou adicionar um campo vazio, aparecerá uma mensagem avisando antes e não será possível.</p>
+Este projeto foi desenvolvido como parte do desafio proposto durante a formação de **Iniciante em Programação** da Alura. O objetivo principal foi criar uma aplicação simples para simular um sorteio de amigo secreto.
+
+## Funcionalidades
+
+1. **Adicionar Nomes**: É possível inserir nomes na lista, um de cada vez.
+2. **Sortear Amigo**: Ao clicar no botão "Sortear amigo", o sistema exibe uma mensagem informando qual nome foi sorteado.
+3. **Validações**:
+   - Se o usuário tentar sortear sem adicionar nomes à lista, uma mensagem de alerta é exibida, impedindo o sorteio.
+   - Se o campo de entrada estiver vazio ao tentar adicionar um nome, o sistema também exibe uma mensagem de erro, evitando a inclusão de valores inválidos.
+
+## Objetivo do Desafio
+
+O desafio teve como foco principal a prática de conceitos básicos de programação, como:
+- Manipulação de listas;
+- Validação de entradas;
+- Interação com o usuário por meio de mensagens dinâmicas.
 
 ## �� Tecnologias
 <div>
